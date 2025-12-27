@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "【オリジナルPV】 小さな恋のうた ／ MONGOL800(cover) by天月",
   "base_artist": "天月-あまつき-",
-  "createdAt": "2025-12-01T08:25:36.531903Z",
+  "createdAt": "2025-12-27T17:19:05.931400Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -39,98 +39,98 @@
     {
       "id": "lrclib_5",
       "source": "lrclib",
-      "title": "小さな恋のうた feat.七穂",
-      "artist": "kobasolo",
+      "title": "小さな恋のうた",
+      "artist": "椎名真昼(CV.石見舞菜香)",
       "has_synced": true,
-      "path": "select/05_小さな恋のうた_feat.七穂_kobasolo.lrc"
+      "path": "select/05_小さな恋のうた_椎名真昼(CV.石見舞菜香).lrc"
     },
     {
       "id": "lrclib_6",
       "source": "lrclib",
-      "title": "小さな恋のうた feat.七穂",
-      "artist": "kobasolo, 七穂",
+      "title": "小さな恋のうた",
+      "artist": "Mongol800",
       "has_synced": true,
-      "path": "select/06_小さな恋のうた_feat.七穂_kobasolo,_七穂.lrc"
+      "path": "select/06_小さな恋のうた_Mongol800.lrc"
     },
     {
       "id": "lrclib_7",
       "source": "lrclib",
-      "title": "小さな恋のうた-cover ver.ー",
-      "artist": "天月-あまつき-",
-      "has_synced": false,
-      "path": "select/07_小さな恋のうた-cover_ver.ー_天月-あまつき-.txt"
+      "title": "小さな恋のうた",
+      "artist": "椎名真昼(CV.石見舞菜香)",
+      "has_synced": true,
+      "path": "select/07_小さな恋のうた_椎名真昼(CV.石見舞菜香).lrc"
     },
     {
       "id": "lrclib_8",
       "source": "lrclib",
       "title": "小さな恋のうた",
-      "artist": "椎名真昼(CV.石見舞菜香)",
+      "artist": "高橋李依",
       "has_synced": true,
-      "path": "select/08_小さな恋のうた_椎名真昼(CV.石見舞菜香).lrc"
+      "path": "select/08_小さな恋のうた_高橋李依.lrc"
     },
     {
       "id": "lrclib_9",
       "source": "lrclib",
       "title": "小さな恋のうた",
-      "artist": "Mongol800",
+      "artist": "小さな恋のうたバンド",
       "has_synced": true,
-      "path": "select/09_小さな恋のうた_Mongol800.lrc"
+      "path": "select/09_小さな恋のうた_小さな恋のうたバンド.lrc"
     },
     {
       "id": "lrclib_10",
       "source": "lrclib",
-      "title": "小さな恋のうた -cover ver.-",
-      "artist": "天月 -あまつき-",
-      "has_synced": false,
-      "path": "select/10_小さな恋のうた_-cover_ver.-_天月_-あまつき-.txt"
+      "title": "小さな恋のうた",
+      "artist": "Humbert Humbert",
+      "has_synced": true,
+      "path": "select/10_小さな恋のうた_Humbert_Humbert.lrc"
     },
     {
       "id": "lrclib_11",
       "source": "lrclib",
-      "title": "小さな恋のうた feat.七穂",
-      "artist": "kobasolo",
-      "has_synced": true,
-      "path": "select/11_小さな恋のうた_feat.七穂_kobasolo.lrc"
+      "title": "小さな恋のうた",
+      "artist": "Rain Drops",
+      "has_synced": false,
+      "path": "select/11_小さな恋のうた_Rain_Drops.txt"
     },
     {
       "id": "lrclib_12",
       "source": "lrclib",
-      "title": "小さな恋のうた",
-      "artist": "椎名真昼(CV.石見舞菜香)",
+      "title": "小さな恋のうた feat.七穂",
+      "artist": "kobasolo",
       "has_synced": true,
-      "path": "select/12_小さな恋のうた_椎名真昼(CV.石見舞菜香).lrc"
+      "path": "select/12_小さな恋のうた_feat.七穂_kobasolo.lrc"
     },
     {
       "id": "lrclib_13",
       "source": "lrclib",
-      "title": "小さな恋のうた",
-      "artist": "高橋李依",
+      "title": "小さな恋のうた feat.七穂",
+      "artist": "kobasolo, 七穂",
       "has_synced": true,
-      "path": "select/13_小さな恋のうた_高橋李依.lrc"
+      "path": "select/13_小さな恋のうた_feat.七穂_kobasolo,_七穂.lrc"
     },
     {
       "id": "lrclib_14",
       "source": "lrclib",
-      "title": "小さな恋のうた",
-      "artist": "小さな恋のうたバンド",
-      "has_synced": true,
-      "path": "select/14_小さな恋のうた_小さな恋のうたバンド.lrc"
+      "title": "小さな恋のうた-cover ver.ー",
+      "artist": "天月-あまつき-",
+      "has_synced": false,
+      "path": "select/14_小さな恋のうた-cover_ver.ー_天月-あまつき-.txt"
     },
     {
       "id": "lrclib_15",
       "source": "lrclib",
-      "title": "小さな恋のうた",
-      "artist": "Humbert Humbert",
-      "has_synced": true,
-      "path": "select/15_小さな恋のうた_Humbert_Humbert.lrc"
+      "title": "小さな恋のうた -cover ver.-",
+      "artist": "天月 -あまつき-",
+      "has_synced": false,
+      "path": "select/15_小さな恋のうた_-cover_ver.-_天月_-あまつき-.txt"
     },
     {
       "id": "lrclib_16",
       "source": "lrclib",
-      "title": "小さな恋のうた",
-      "artist": "Rain Drops",
-      "has_synced": false,
-      "path": "select/16_小さな恋のうた_Rain_Drops.txt"
+      "title": "小さな恋のうた feat.七穂",
+      "artist": "kobasolo",
+      "has_synced": true,
+      "path": "select/16_小さな恋のうた_feat.七穂_kobasolo.lrc"
     },
     {
       "id": "lrclib_17",
@@ -144,41 +144,9 @@
       "id": "petitlyrics_1",
       "source": "petitlyrics",
       "title": "小さな恋のうた",
-      "artist": "MONGOL 800",
+      "artist": "天月-あまつき-",
       "has_synced": false,
-      "path": "select/pl_01_小さな恋のうた_MONGOL_800.txt"
-    },
-    {
-      "id": "petitlyrics_2",
-      "source": "petitlyrics",
-      "title": "小さな恋のうた",
-      "artist": "MONGOL 800",
-      "has_synced": false,
-      "path": "select/pl_02_小さな恋のうた_MONGOL_800.txt"
-    },
-    {
-      "id": "petitlyrics_3",
-      "source": "petitlyrics",
-      "title": "小さな恋のうた",
-      "artist": "MONGOL 800",
-      "has_synced": false,
-      "path": "select/pl_03_小さな恋のうた_MONGOL_800.txt"
-    },
-    {
-      "id": "petitlyrics_4",
-      "source": "petitlyrics",
-      "title": "小さな恋のうた",
-      "artist": "MONGOL 800",
-      "has_synced": false,
-      "path": "select/pl_04_小さな恋のうた_MONGOL_800.txt"
-    },
-    {
-      "id": "petitlyrics_5",
-      "source": "petitlyrics",
-      "title": "小さな恋のうた",
-      "artist": "MONGOL 800",
-      "has_synced": false,
-      "path": "select/pl_05_小さな恋のうた_MONGOL_800.txt"
+      "path": "select/pl_01_小さな恋のうた_天月-あまつき-.txt"
     }
   ]
 }

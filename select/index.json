@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "【オリジナルPV】 小さな恋のうた ／ MONGOL800(cover) by天月",
   "base_artist": "天月-あまつき-",
-  "createdAt": "2025-12-27T17:19:05.931400Z",
+  "createdAt": "2026-02-13T05:55:44.221347Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -141,12 +141,20 @@
       "path": "select/17_小さな恋のうた_(cover)_Rain_Drops.txt"
     },
     {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "【オリジナルPV】 小さな恋のうた ／ MONGOL800(cover) by天月",
+      "artist": "Amatsuki",
+      "has_synced": false,
+      "path": "select/18_【オリジナルPV】_小さな恋のうた___MONGOL800(cover)_by天月_Amatsuki.txt"
+    },
+    {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "小さな恋のうた",
+      "title": "小さな恋のうた -cover ver.-",
       "artist": "天月-あまつき-",
       "has_synced": false,
-      "path": "select/pl_01_小さな恋のうた_天月-あまつき-.txt"
+      "path": "select/pl_01_小さな恋のうた_-cover_ver.-_天月-あまつき-.txt"
     }
   ]
 }
